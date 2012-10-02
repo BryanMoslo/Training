@@ -6,14 +6,35 @@
 
 
 
-<body>
+<body background="fondo.jpg">
 <marquee>
 <p>
 <a href="http://www.google.com"> Ir A Google!</a> 
 
 </p></marquee>
-cuerpo
+<h1>Freestyle football for Bryan Moslo!</h1>
+<p>Futbol freestyle es el arte de hacer trucos con un balon de futbol, realizando movimientos <em><strong>creativos y habilidosos</strong></em> manteniendo siempre el control y un estilo correctos.
+<strong> Al contrario de lo que piensa la inmensa mayoria de la gente, esta permitido el uso de cualquier parte del cuerpo, pies, espinillas, rodillas, manos, brazos, cabeza,...</strong></p>
+
+<p> Aumento de su popularidad
+
+El futbol Freestyle existe desde hace bastante tiempo pero ultimamente ha ganado popularidad gracias a las campañas publicitarias a nivel mundial y a la publicación de contenidos digitales mediante Internet.
+A principios del siglo XXI, Nike comenzo una campaña publicitaria que se baso principalmente en una forma de futbol estilo libre, incluyendo videos con actuaciones de Freestyle. En algunos de estos anuncios participaron famosos futbolistas como Edgar Davids o Ronaldinho.
+Los principales responsables del auge de su popularidad son los sitios web que permiten a los usuarios compartir vídeos digitales a traves de Internet. Sitios como YouTube han contribuido a que muchos Freestylers anonimos alcancen la fama entre los aficionados, donde con simples busquedas, se pueden encontrar miles de videos de Freestylers amateurs en todo el mundo.<p/>
+
+<p> El mayor grupo exponente del Freestyle en Colombia es <acronym title="Moslo Freestyle Colombia"><strong>Mfc</strong></acronym></p>
+
+<p><dl compact="compact">el freestyle es mas que hacer figuras con un balon!!!</dl></p>
+<p>como dijo <cite><acronym title="Antonio Jose Pagano Beleño">toni</acronym></cite>:<h2><blockquote>" YO AMO EL FREESTYLE"</blockquote></h2></p>
+
+
 </body>
 
 
 </html>
+
+<!--<p> parrafo
+//<marquee> dezplazamiento
+//<a> enlace
+//<a href=htt....> etiqueta
+//<h1> tamaño de letra --!>
